@@ -1,3 +1,5 @@
+/*Identify whether the line is comment or not*/
+
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
